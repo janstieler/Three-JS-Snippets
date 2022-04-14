@@ -1,0 +1,75 @@
+{
+    "name": "three-snippets",
+    "displayName": "THREE JS Snippets",
+    "author": {
+        "name": "Jan-Frederik Stieler",
+        "email": "kontakt@janstieler.de"
+    },
+    "contributors": {
+        "name": "Alexander Rose",
+        "email": "acrosemail@gmail.com"
+    },
+    "publisher": "KDJFS",
+    "email": "kontakt@janstieler.de",
+    "icon": "img/logo.png",
+    "description": "A three.js Extension",
+    "license": "MIT",
+    "version": "0.1.12",
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "keywords": [
+        "javascript",
+        "Javascript",
+        "three.js",
+        "threejs",
+        "ThreeJS",
+        "Three.JS",
+        "3d",
+        "3D",
+        "webgl",
+        "Webgl",
+        "snippets"
+    ],
+    "categories": [
+        "Programming Languages",
+        "Snippets"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/janstieler/vscode-threejs-snippets"
+    },
+    "bugs": {
+        "url": "https://github.com/janstieler/vscode-threejs-snippets/issues",
+        "email": "kontakt@janstieler.de"
+    },
+    "contributes": {
+        "languages": [{
+            "id": "three",
+            "aliases": [
+                "Three",
+                "three"
+            ],
+            "extensions": [
+                ".js"
+            ]
+        }],
+        "snippets": [{
+                "language": "javascript",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "typescript",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "typescriptreact",
+                "path": "./snippets/snippetsReact.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/snippetsReact.json"
+            }
+        ]
+    }
+}
