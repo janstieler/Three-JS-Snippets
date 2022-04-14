@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/janstieler/Three-JS-Snippets/master/img/logo.png)
+
 # THREE JS Snippets for Visual Studio Code
 
 This extension adds Three JS Code Snippets into Visual Studio Code.
@@ -12,9 +14,7 @@ PS: Typscript is supported but many snippets may not work. For example, OrbitCon
 
 
 ### It looks like:
-![](https://raw.githubusercontent.com/hollowtree/vscode-vue-snippets/master/img/show1.png)
-
-![](https://raw.githubusercontent.com/hollowtree/vscode-vue-snippets/master/img/show2.png)
+ - Empty
 
 
 ## List of Snippets
