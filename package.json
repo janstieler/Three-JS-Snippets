@@ -45,11 +45,6 @@
     },
     "contributes": {
         "languages": [{
-            "id": "three",
-            "aliases": [
-                "Three",
-                "three"
-            ],
             "extensions": [
                 ".js"
             ]
