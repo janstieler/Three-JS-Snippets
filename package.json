@@ -37,10 +37,10 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/janstieler/vscode-threejs-snippets"
+        "url": "https://github.com/janstieler/Three-JS-Snippets"
     },
     "bugs": {
-        "url": "https://github.com/janstieler/vscode-threejs-snippets/issues",
+        "url": "https://github.com/janstieler/Three-JS-Snippets/issues",
         "email": "kontakt@janstieler.de"
     },
     "contributes": {
